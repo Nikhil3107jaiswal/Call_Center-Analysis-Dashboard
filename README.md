@@ -1,4 +1,4 @@
-# 📞 Call Center Visualization – Tableau Case Study
+# 📞 Call Center Visualization – Power BI Case Study
 
 ## 📌 Project Overview
 This project focuses on analyzing call center data to identify performance patterns across sales representatives. The analysis is designed to support data-driven decision-making through clean, interactive, and user-friendly Power BI dashboards.
